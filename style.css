@@ -16,7 +16,17 @@
     width: 50%;
     height: 40%;
     top:20vh;
-    left: 10vh;
+    left: 20vh;
+}
+
+.wars{
+    position: absolute;
+    z-index: 2;
+    width: 50%;
+    height: 40%;
+    top:20vh;
+    right: 20vh;
+    
 }
 
 
