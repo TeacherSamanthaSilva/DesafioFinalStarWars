@@ -29,6 +29,14 @@
     
 }
 
+.kyloren{
+    position: absolute;
+    z-index: 3;
+    top:1vw;
+    width:80%;
+    left:5vw;
+}
+
 
 
 
