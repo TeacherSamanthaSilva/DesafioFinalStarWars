@@ -37,6 +37,13 @@
     left:5vw;
 }
 
+.criesualegiao{
+    position: absolute;
+    z-index: 3;
+    top: 30vh;
+    right: 15vh;
+}
+
 
 
 
