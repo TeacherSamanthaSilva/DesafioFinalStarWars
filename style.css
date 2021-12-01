@@ -15,7 +15,7 @@
     z-index: 2;
     width: 50%;
     height: 40%;
-    top:20vh;
+    top:23vh;
     left: 20vh;
 }
 
@@ -24,7 +24,7 @@
     z-index: 2;
     width: 50%;
     height: 40%;
-    top:20vh;
+    top:23vh;
     right: 20vh;
     
 }
@@ -32,16 +32,16 @@
 .kyloren{
     position: absolute;
     z-index: 3;
-    top:1vw;
-    width:80%;
-    left:3vw;
+    top:2vw;
+    width:75%;
+    left:6vw;
 }
 
 .criesualegiao{
     position: absolute;
     z-index: 3;
-    top: 30vh;
-    right: 20vh;
+    top: 32vh;
+    right: 22vh;
 }
 
 
