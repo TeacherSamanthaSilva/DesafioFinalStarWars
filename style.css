@@ -8,7 +8,10 @@
 .fundostars{
     position: absolute;
     z-index: 1;
+    
 }
+
+
 
 .star{
     position: absolute;
@@ -71,6 +74,15 @@
     height:70%;
     left: 8vw;
 
+}
+
+.estruturadejogo{
+    position: absolute;
+    z-index: 2;
+    top:90vh;
+    height: 90%;
+    width: 60%;
+    left:40vh;
 }
 
 
