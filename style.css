@@ -45,22 +45,22 @@
     position: absolute;
     z-index: 3;
     top: 32vh;
-    right: 22vh;
+    right: 20vh;
 }
 
 .sobreojogo{
     position: absolute;
     z-index: 2;
-    top:60vh;
+    top:55vh;
     left:20vw;
     width: 70%;
-    height: 50%;
+    height: 60%;
 }
 
 .linha{
     position: absolute;
     z-index: 2;
-    top:80vh;
+    top:75vh;
     width: 90%;
     left: 10vw;
 }
@@ -89,7 +89,13 @@
     position: absolute;
     z-index: 2;
     top:90vh;
-    right:2vh;
+    right:1vh;
+}
+
+.dartmaul{
+    position: absolute;
+    z-index:2;
+    top:80vh;
 }
 
 
