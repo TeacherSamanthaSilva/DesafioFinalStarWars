@@ -78,11 +78,18 @@
 
 .estruturadejogo{
     position: absolute;
-    z-index: 2;
+    z-index: 3;
     top:90vh;
     height: 90%;
     width: 60%;
     left:40vh;
+}
+
+.rey{
+    position: absolute;
+    z-index: 2;
+    top:90vh;
+    right:2vh;
 }
 
 
