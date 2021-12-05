@@ -11,6 +11,12 @@
     
 }
 
+.retangulocinza{
+    position: absolute;
+    z-index: 1;
+    top:280vh;
+}
+
 
 
 .star{
