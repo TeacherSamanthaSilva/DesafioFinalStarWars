@@ -17,8 +17,6 @@
     top:280vh;
 }
 
-
-
 .star{
     position: absolute;
     z-index: 2;
@@ -71,7 +69,6 @@
     left: 10vw;
 }
 
-
 .comeceajogar{
     position: absolute;
     z-index: 4;
@@ -102,6 +99,15 @@
     position: absolute;
     z-index:2;
     top:80vh;
+}
+
+.palavraatributos{
+    position: absolute;
+    z-index:3;
+    top:150vh;
+    width:40%;
+    height:20%;
+    left:10vh;
 }
 
 
