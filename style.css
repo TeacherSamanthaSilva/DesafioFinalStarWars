@@ -114,7 +114,14 @@
     position: absolute;
     z-index:3;
     height:70%;
-    left:10vh;
+    left:9vh;
+}
+
+.atributosimagem2{
+    position: absolute;
+    z-index: 3;
+    left:23vw;
+    height:50%
 }
 
 
