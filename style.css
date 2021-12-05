@@ -54,6 +54,14 @@
     height: 60%;
 }
 
+.linha{
+    position: absolute;
+    z-index: 2;
+    top:80vh;
+    width: 90%;
+    left: 10vw;
+}
+
 
 
 
