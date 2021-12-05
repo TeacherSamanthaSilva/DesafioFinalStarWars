@@ -45,6 +45,15 @@
     right: 22vh;
 }
 
+.sobreojogo{
+    position: absolute;
+    z-index: 2;
+    top:60vh;
+    left:15vw;
+    width: 80%;
+    height: 60%;
+}
+
 
 
 
