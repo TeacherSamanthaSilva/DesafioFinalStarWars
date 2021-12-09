@@ -82,23 +82,57 @@
 .estruturadejogo{
     position: absolute;
     z-index: 3;
-    top:90vh;
-    height: 90%;
-    width: 60%;
-    left:40vh;
+    top:170vh;
+    left:40vw;
 }
 
+h2{
+    font-family: 'Open Sans', sans-serif;
+    font-size:2em;
+    
+}
+
+span{
+
+    font-family: 'Open Sans', sans-serif;
+    font-size:1em;
+    font-weight:900;
+
+}
+
+ ul{
+    position:absolute;
+    z-index:3;
+    top:180vh;
+    list-style:none;
+    left:40vw;
+    font-family: 'Open Sans', sans-serif;
+    font-size:1.5em;
+    
+}
+
+li{
+    padding:20px;
+}
+
+a:hover{
+    background-color:orange;
+    color:#fff;
+    padding: 20px;
+    opacity:0.8;
+}
 .rey{
     position: absolute;
     z-index: 2;
-    top:90vh;
+    top:80vh;
     right:1vh;
 }
 
 .dartmaul{
     position: absolute;
     z-index:2;
-    top:80vh;
+    top:75vh;
+
 }
 
 .palavraatributos{
@@ -121,7 +155,7 @@
     position: absolute;
     z-index: 3;
     left:23vw;
-    height:50%
+    height:50%;
 }
 
 
