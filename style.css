@@ -18,6 +18,12 @@
     top:280vh;
 }
 
+.retangulocinza2{
+    position:absolute;
+    z-index:1;
+    top:370vh;
+}
+
 .star{
     position: absolute;
     z-index: 2;
@@ -150,6 +156,7 @@ a:hover{
     z-index:3;
     height:70%;
     left:9vh;
+    top:160vh;
 }
 
 .atributosimagem2{
@@ -157,8 +164,16 @@ a:hover{
     z-index: 3;
     left:23vw;
     height:50%;
+    top:160vh;
 }
 
+.stargame{
+    position: absolute;
+    z-index:3;
+    top:160vh;
+    height:50%;
+    left:33vw;
+}
 
 
 
