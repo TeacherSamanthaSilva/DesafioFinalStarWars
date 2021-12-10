@@ -227,6 +227,25 @@ a:hover{
 .stormtroopercapapreta{
     position:absolute;
     z-index:4;
+    
+}
+
+.imagemdownload{
+
+    position:absolute;
+    z-index:3;
+    top:260vh;
+    left:20vw;
+    width:40%;
+    
+}
+
+.imagemescolher{
+    position:absolute;
+    z-index:3;
+    top:260vh;
+    left:30vw;
+    width:40%;
 }
 
 
