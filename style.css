@@ -175,6 +175,14 @@ a:hover{
     left:33vw;
 }
 
+.navesembatalha{
+    position:absolute;
+    z-index:3;
+    top:173vh;
+    height:50%;
+    left:23vw;
+}
+
 
 
 
