@@ -2,6 +2,7 @@
 *{
     margin: 0;
     padding: 0; 
+
 }
 
 .fundostars{
@@ -188,6 +189,26 @@ a:hover{
     left:33vw;
 }
 
+.novosgraficos{
+
+    position: absolute;
+    z-index: 3;
+    left:23vw;
+    height:50%;
+    top:160vh;
+
+}
+
+.hierarquia{
+
+    width:90%;
+    height:90%;
+    position:absolute;
+    z-index: 4;
+    top:190vh;
+    left:5vw;
+    
+}
 
 
 
