@@ -1,15 +1,12 @@
 
 *{
     margin: 0;
-    padding: 0;
-    
+    padding: 0; 
 }
 
 .fundostars{
     position: absolute;
     z-index: 1;
-    
-    
 }
 
 .retangulocinza{
@@ -181,6 +178,14 @@ a:hover{
     top:173vh;
     height:50%;
     left:23vw;
+}
+
+.stormtrupers{
+    position:absolute;
+    z-index:3;
+    top:173vh;
+    height:50%;
+    left:33vw;
 }
 
 
