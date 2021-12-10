@@ -248,6 +248,22 @@ a:hover{
     width:40%;
 }
 
+.imagemexplorar{
+    position:absolute;
+    z-index:3;
+    top:260vh;
+    left:40vw;
+    width:40%;
+}
+
+.linha2{
+    position:absolute;
+    z-index:3;
+    top:280vh;
+    left:23vw;
+    width:20%;
+}
+
 
 
    
