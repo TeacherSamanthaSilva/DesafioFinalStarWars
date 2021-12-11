@@ -316,6 +316,14 @@ a:hover{
    left:5vw;
 }
 
+.appstore{
+    position:absolute;
+   z-index:4;
+   top:325vh;
+   height:30%;
+   left:13vw;
+}
+
 
 
 
