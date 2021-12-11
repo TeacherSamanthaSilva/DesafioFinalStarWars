@@ -227,7 +227,13 @@ a:hover{
 .stormtroopercapapreta{
     position:absolute;
     z-index:4;
-    
+}
+
+.comojogar{
+    position:absolute;
+    z-index:4;
+    top:240vh;
+    left:25vw;
 }
 
 .imagemdownload{
@@ -278,6 +284,12 @@ a:hover{
     top:280vh;
     left:43vw;
     width:20%;
+}
+
+.retangulolaranja{
+    position:absolute;
+    z-index:3;
+    top:600vh;
 }
 
 
