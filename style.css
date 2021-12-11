@@ -300,6 +300,14 @@ a:hover{
    
 }
 
+.comunidade{
+    position:absolute;
+    z-index:4;
+    top:320vh;
+    height:30%;
+    left:5vw;
+}
+
 
 
    
