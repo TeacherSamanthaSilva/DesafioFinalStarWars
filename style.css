@@ -353,9 +353,18 @@ a:hover{
     left:5vw;
 }
 
+.darthvader{
+    position:absolute;
+    z-index:4;
+    top:300vh;
+    left:20vw;
+    height:100%;
+}
 
-
-
-
-
-   
+.vainaweb{
+    position:absolute;
+    z-index:4;
+    top:350vh;
+    width:50%;
+    left:30vw;
+}
