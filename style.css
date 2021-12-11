@@ -292,6 +292,14 @@ a:hover{
     top:600vh;
 }
 
+.aplicativo{
+    position:absolute;
+    z-index:4;
+    top:310vh;
+    left:5vw;
+   
+}
+
 
 
    
