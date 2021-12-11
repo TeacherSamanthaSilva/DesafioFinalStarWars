@@ -324,6 +324,17 @@ a:hover{
    left:13vw;
 }
 
+.linha4{
+    position:absolute;
+    z-index:4;
+    top:332vh;
+    height:30%;
+    left:5vw;
+    width:50%;
+    height:5%;
+
+}
+
 
 
 
