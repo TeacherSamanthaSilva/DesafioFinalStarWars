@@ -345,6 +345,14 @@ a:hover{
    
 }
 
+.politicas{
+    position:absolute;
+    z-index:4;
+    top:345vh;
+    width:50%;
+    left:5vw;
+}
+
 
 
 
