@@ -216,13 +216,7 @@ a:hover{
     
 }
 
-.emnormas{
-    position:absolute;
-    z-index:4;
-    width:70%;
-    right:5vw;
-   
-}
+
 
 .stormtroopercapapreta{
     position:absolute;
@@ -234,6 +228,14 @@ a:hover{
     z-index:4;
     top:240vh;
     left:25vw;
+}
+.emnormas{
+    position:absolute;
+    z-index:4;
+    width:70%;
+    right:5vw;
+    top:247vh;
+   
 }
 
 .imagemdownload{
