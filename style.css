@@ -291,9 +291,7 @@ a:hover{
     z-index:3;
     top:600vh;
 }
-.retangulolaranja2{
-    
-}
+
 
 .aplicativo{
     position:absolute;
@@ -341,9 +339,13 @@ a:hover{
 .logostarwars{
     position:absolute;
     z-index:4;
-    top:332vh;
+    top:335vh;
+    width:40%;
+    left:5vw;
    
 }
+
+
 
 
 
