@@ -308,6 +308,15 @@ a:hover{
     left:5vw;
 }
 
+.googleplay{
+   position:absolute;
+   z-index:4;
+   top:330vh;
+   height:30%;
+   left:5vw;
+}
+
+
 
 
    
