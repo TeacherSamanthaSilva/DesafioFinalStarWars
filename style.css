@@ -264,6 +264,22 @@ a:hover{
     width:20%;
 }
 
+.linha3{
+    position:absolute;
+    z-index:3;
+    top:280vh;
+    left:33vw;
+    width:20%;
+}
+
+.linha4{
+    position:absolute;
+    z-index:3;
+    top:280vh;
+    left:43vw;
+    width:20%;
+}
+
 
 
    
