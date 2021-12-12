@@ -102,7 +102,6 @@
 h2{
     font-family: 'Open Sans', sans-serif;
     font-size:2em;
-   
     
 }
 
@@ -111,7 +110,6 @@ span{
     font-family: 'Open Sans', sans-serif;
     font-size:1em;
     font-weight:900;
-   
 
 }
 
@@ -124,19 +122,23 @@ span{
     font-family: 'Open Sans', sans-serif;
     font-size:1.5em;
     
-    
 }
 
 li{
     padding:20px;
 }
 
-a:hover{
-    background-color:#d74430;
-    color:#fff;
-    padding: 20px;
-    opacity:0.8;
+a{
+    text-decoration: none;
+    color:#000;
 }
+
+a:hover{
+    background-color:orange;
+    color:#fff;
+}
+
+
 .rey{
     position: absolute;
     z-index: 2;
@@ -237,7 +239,7 @@ a:hover{
 .comojogar{
     position:absolute;
     z-index:4;
-    top:225vh;
+    top:215vh;
     left:25vw;
     width:50%;
     height:30%;
@@ -313,8 +315,6 @@ a:hover{
     z-index:4;
     top:300vh;
     left:5vw;
-    width:50%;
-    height:30%;
    
 }
 
